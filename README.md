@@ -1,8 +1,8 @@
 # LDAP Account Management Tools
 
-Tools for creating/deleting user accounts in batches for all type of LDAP servers;
+Tools for creating/deleting user accounts in batches through Python LDAP API;
 
-and a migration tool for GLauth only.
+And a Linux account migration tool for [GLauth](https://github.com/glauth/glauth).
 
 ### Prerequisites
 
